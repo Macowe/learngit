@@ -1,0 +1,6 @@
+git branch: to view the branch
+git branch <name>: to create a branch with<name>
+git checkout <name>: switch to the branch <name>
+git checkout -b <name>:create and switch to the branch <name> 
+git merge <name>:merge the branch <name> to current branch
+git branch -d <name>:delete the branch <name>
